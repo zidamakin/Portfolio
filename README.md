@@ -9,4 +9,3 @@ This is my Portfolio Project. Using Html and Css and Bootstarp.
 * Bootstrap
 ## Installation
 No need to install anything, just open index.html.
-
